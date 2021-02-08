@@ -7,3 +7,6 @@ And Camera - The code is from the ESP8266  example code <br>
 
 I use 2 boards of ESP8266 for convenience<br>
 That way I can add / remove - options whenever I want <br>
+
+![alt text](https://github.com/thepitrose/wifi-rc-car-with-xbox-controller/blob/main/C2.jpg) <br>
+![alt text](https://github.com/thepitrose/wifi-rc-car-with-xbox-controller/blob/main/C3.jpg) <br>
