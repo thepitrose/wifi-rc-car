@@ -32,8 +32,8 @@ const char *AP_ssid = "arducam_esp8266";
 const char *AP_password = "APpassword";
 
 //Station mode you should put your ssid and password
-const char *ssid = "home3"; // Put your SSID here
-const char *password = "036345563"; // Put your PASSWORD here
+const char *ssid = "WIFI"; // Put your SSID here
+const char *password = "PASSWORD"; // Put your PASSWORD here
 
 static IPAddress ip(192, 168, 14, 203); // static IP used for browser access: http://IPaddress
 static IPAddress gateway(192, 168, 14, 1);
