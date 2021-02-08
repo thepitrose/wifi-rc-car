@@ -10,8 +10,8 @@ int servo_position = 0;
 
 
 uint8_t pin_led = 16;
-char* ssid = "home3";
-char* password = "036345563";
+char* ssid = "WIFI";
+char* password = "PASSWORD";
 
 
 static IPAddress ip(192, 168, 14, 201); // static IP used for browser access: http://IPaddress
